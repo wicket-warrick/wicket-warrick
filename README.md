@@ -1,11 +1,11 @@
 <h1 align=center>HUGO SUÁREZ</h1></br>
 <h3>✧ ⚙️ Mechanical Engineer.</h3> 
 <h3>✧ 🖥️ Full Stack JavaScript Devp by <a href="https://www.hackaboss.com/">Hack A Boss</a>.</h3> 
-<h3>✧ 🧑‍🎓 I’m currently learning about JavaScript & TypeScript.</h3>
+<h4>✧ 🧑‍🎓 I’m currently learning about JavaScript & TypeScript.</h4>
 
-<h3>✧ 🧑‍💻 I'm looking to work on my first challenges; Frontend or Backend.</h3>
+<h4>✧ 🧑‍💻 I'm looking to work on my first challenges; Frontend or Backend.</h4>
 
-<h3>✧ ⚡ Fun fact: I like 🎶 playing bagpipes and 🏋️ crossfit. </h3>
+<h4>✧ ⚡ Fun fact: I like 🎶 playing bagpipes and 🏋️ crossfit. </h4>
 
 <!--
 **wicket-warrick/wicket-warrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
