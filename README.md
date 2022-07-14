@@ -4,11 +4,7 @@
 <h3>✧ 🧑‍🎓 I’m currently learning about JavaScript & TypeScript.</h3>
 
 <h3>✧ 🧑‍💻 I'm looking to work on my first challenges; Frontend or Backend.</h3>
-<h3>✧ 📫 How to reach me:</h3> 
-<ul>
-<li> 📧 <a href="mailto:hugolgsuarez@gmail.com">hugolgsuarez@gmail.com</a> </li>
-<li> 📑 <a href="https://www.linkedin.com/in/hugosuarezdevp/">Hugo Suárez</a></li>
-</ul>
+
 <h3>✧ ⚡ Fun fact: I like 🎶 playing bagpipes and 🏋️ crossfit. </h3>
 
 <!--
