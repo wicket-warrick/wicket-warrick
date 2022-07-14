@@ -1,15 +1,15 @@
-<b>HUGO SUÁREZ</b></br>
-</br>
-✧ ⚙️ Mechanical Engineer </br>
-✧ 🖥️ Starting in the world of Full Stack Devps.</br>
-✧ 🧑‍🎓 I’m currently learning about JavaScript,TypeScript</br>
-✧ 📫 How to reach me:
+<h1 align=center>HUGO SUÁREZ</h1></br>
+<h3>✧ ⚙️ Mechanical Engineer</h3> 
+<h3>✧ 🖥️ Starting in the world of Full Stack Devps.</h3> 
+<h3>✧ 🧑‍🎓 I’m currently learning about JavaScript & TypeScript.</h3>
 
+<h3>✧ 🧑‍💻 I'm looking to work on my first projects; Frontend or Backend.</h3>
+<h3>✧ 📫 How to reach me:</h3> 
 <ul>
 <li> 📧 <a href="mailto:hugolgsuarez@gmail.com">hugolgsuarez@gmail.com</a> </li>
 <li> 📑 <a href="https://www.linkedin.com/in/hugosuarezdevp/">Hugo Suárez</a></li>
 </ul>
-✧ 🧑‍💻 I'm looking to work on my first projects; Frontend or Backend
+
 <!--
 **wicket-warrick/wicket-warrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
