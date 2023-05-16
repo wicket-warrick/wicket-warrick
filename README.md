@@ -2,8 +2,7 @@
 <h3>✧ ⚙️ Mechanical Engineer.</h3> 
 <h3>✧ 🖥️ Full Stack JavaScript Devp by <a href="https://www.hackaboss.com/">Hack A Boss</a>.</h3> 
 <h4>✧ 🧑‍🎓 I’m currently learning about web development.</h4>
-<h4>✧ 📫 How to reach me: <a>hugolgsuarez@gmail.com<a><a>www.linkedin.com/in/hugosuarezdevp
-</h4>
+
 
 
 
