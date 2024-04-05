@@ -1,7 +1,7 @@
 <h1 align=center>HUGO SUÁREZ</h1></br>
 <h3>✧ ⚙️ Mechanical Engineer.</h3> 
 <h3>✧ 🖥️ Full Stack JavaScript Devp by <a href="https://www.hackaboss.com/">Hack A Boss</a>.</h3> 
-<h4>✧ 🧑‍🎓 I’m currently learning about web development.</h4>
+<h4>✧ 🧑‍🎓 I’m currently learning about Java,🕹️ Arduino and 📡 IoT.</h4>
 
 
 
